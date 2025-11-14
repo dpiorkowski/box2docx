@@ -57,11 +57,3 @@ You can also use the terminals file expansion to easily convert all boxnote file
 
 ## Considerations
 Sometimes it takes a while for a Box Note to be downloaded to your machine. The tool does include an additional 10 second wait, but that may not be enough. You may need to rerun the tool after the file is fully loaded if it doens't work the first time.
-
-## Example
-### Original Box Note:
-![Original Box Note](https://github.ibm.com/David-Piorkowski/box2docx/blob/main/boxnote_example.png?raw=true)
-
-### Converted Word Document:
-![Converted Word Document](https://github.ibm.com/David-Piorkowski/box2docx/blob/main/word_example.png?raw=true)
-)
