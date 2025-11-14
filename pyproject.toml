@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "box2docx"
+version = "0.1.0"
+description = "Convert Boxnotes to OneDrive-friendly formats (e.g. .docx, .md)"
+authors = ["David Piorkowski <David.Piorkowski@ibm.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+roman = "^4.2"
+python-docx = "^1.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
